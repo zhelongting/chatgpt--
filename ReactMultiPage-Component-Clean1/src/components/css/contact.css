@@ -1,0 +1,197 @@
+.beijing{
+    background-image: url(../images/cruzr_banner1.png);
+    height: 1000px;
+    width:auto;
+    }
+    
+    .ziti{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .video-btn{
+        cursor: pointer;
+        width: 206px;
+        height: 64px;
+        background: url(../images/btn_video.png) center no-repeat;
+        position: absolute;
+    }
+    
+    .video-btn p{
+        padding: 16px 0 0 66px;
+        font-size: 24px;
+    }
+    
+    .text img{
+        text-align:center;
+        vertical-align:middle;
+        
+    }
+    
+    .section2{
+        background-image: url(../images/section_4_bg2.png);
+        height: 700px;
+        width:auto;
+        }
+    
+    .section2 h1{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1;
+            margin-top: 10px;
+    }
+    
+    .section3 img{
+        height: 500px;
+        width: 650px;
+        margin-top: 60px;
+        margin-left:20px;
+    }
+    
+    .section3_ziti p{
+        font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color:black;
+            margin-top: 150px;
+         
+    }
+    
+    .parameter_num {
+        font-size: 50px;
+        color: rgb(0, 178, 233);
+        font-family: 思源黑体;
+    }
+    
+    .num{
+        display:inline-block;
+        padding-right: 25px;
+        margin-left: 5px;
+    }
+    
+    .section3_ziti1{
+        font-size: 20px;
+        font-family: 思源黑体;
+        margin-top: 30px;
+    }
+    
+    .section4_first img{
+        height:700px;
+        width: 750px;
+    }
+    
+    .section4_ziti p{
+        font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color:black;
+            margin-top: 100px;
+            margin-left: 50px;
+         
+    }
+    
+    .section4_ziti1{
+        font-size: 20px;
+        font-family: 思源黑体;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    
+    .icon1{
+        display:inline;
+        padding-right: 25px;
+        margin-left: 50px;
+        float: left;
+        
+    }
+    
+    .icon2{
+        display:inline;
+        padding-right: 25px;
+        margin-left: 30px;
+        float: left;
+        margin-top:40px;
+        
+    }
+    
+    
+    .section5{
+        background-image: url(../images/section_5_concat.png);
+        height: 550px;
+        width:auto;
+      
+        }
+    
+    
+       
+    
+        .section5_ziti p{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color:black;
+            margin-top: 300px;
+            margin-left: 50px;
+        }
+    
+        .section6_ziti p{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color:black;
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+    
+        .lunbo marquee img{
+            height: 300px;
+            width: 350px;
+            margin-top:10px;
+            padding-right: 20px;
+            /* object-fit: cover; */
+        }
+    
+        .section6{
+            background-image: url(../images/section_13_bg.png);
+            height:600px;
+        }
+    
+        .section7_ziti p{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 48px;
+            font-weight: 700;
+            color:black;
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+    
+        .section8{
+          
+            height:500px;
+            width: auto;
+            background-color:lightcyan;
+        }
+    
+        .section8 p{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 24px;
+            margin-top: 100px;
+            margin-left: 250px;
+        }
+    
+        .section8 button{
+            font-family:UBTECH-Regular, "Source Han Sans CN Regular", 思源黑体, 微软雅黑, "Microsoft Yahei", webfont, "Hiragino Sans GB", Arial, Helvetica, "Microsoft YaHei New", STXihei, 华文细黑, "sans-serif";
+            font-size: 24px;
+            margin-top: 10px;
+            margin-left: 350px;
+        }
+    
+    
+        .ewm{
+            margin-top: 100px;
+            margin-left: 100px;
+            width: 200px;
+            height: 200px;
+            margin-bottom: 200px;
+        }

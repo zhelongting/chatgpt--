@@ -1,0 +1,36 @@
+.headerBox2{
+  /* position: fixed; */
+  height: 50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background: #1DA57A;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 50px;
+  color: white;
+}
+.nickName{
+  margin-right: 20px;
+  color: white;
+}
+.out{
+  margin-left: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.background {
+  background: #fff;
+}
+
+.menuItem{
+  font-size: 14px;
+  color: #666;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.menuItem:hover{
+  color: #1DA57A;
+}

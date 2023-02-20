@@ -1,0 +1,17 @@
+.container {
+  padding: 50px;
+  background-color: white;
+
+
+}
+.SearchBox {
+  padding: 30px 0;
+}
+
+.functionalDomain {
+  padding: 10px 0 30px 0 !important;
+}
+
+.smallBtn {
+  font-size: 12px;
+}

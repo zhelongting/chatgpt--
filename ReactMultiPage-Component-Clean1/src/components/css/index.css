@@ -1,0 +1,451 @@
+/* body {
+    background-color: #333;
+  } */
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .aside-left{
+    float: left;
+    height: 700px;
+    width: 100px;
+    background-color: red;
+  }
+  
+  .aside-right{
+    background-color: blue;
+    float: right;
+    width: 100px;
+          height: 200px;
+  }
+  
+  .main{
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 200px;
+    width: 100pxs;
+    background-color: green;
+  }
+  
+  .buju1{
+    width:100%;
+    height:400px;
+   
+  }
+  
+  .buju1 img{
+    display:inline-block;
+    width:420px;
+    height:350px;
+    margin-left:140px;
+    padding: 70px;
+}
+  
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+  .b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+  
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+  
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    padding:0 20px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  
+  #myCarousel
+  {
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+      }
+  
+  
+  #myCarousel .carousel-inner>.item>img
+  {text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+  }
+  
+  
+  #img-thumbnail {
+          height: 30px;
+          width: 30px;
+           background: #aaa;
+      }
+  
+  
+  .floatLeft, .float, .floatright{
+      display: inline-block;
+  
+  }
+  
+  .navigation__item{
+  display:inline-block;
+   font-size:24px;
+   margin:0 20px;
+  }
+  
+  .container .jumbotron, .container-fluid .jumbotron {
+      padding-right: 5px;
+      padding-left: 5px;
+      border-radius: 1px;
+  }
+  
+  .lunbo{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+  }
+  
+  .partner .partner-wrap {
+    margin-top: 86px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    background: white;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  
+  ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  }
+  
+  
+  .footerBottom {
+    font-size: 14px;
+    height: 80px;
+    padding: 13px 0;
+    color: white;
+    background-color:#111;
+  }
+  
+  .partner-wrap{
+    margin-top: 86px;
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 40px;
+  
+  }
+  
+  .partner-item {
+      display: block;
+      list-style-type: disc;
+     
+  }
+  
+  .liuyan{
+  margin-left: 250px;
+  margin-right: 250px;
+  }
+  
+  .shou{
+    background-color: #161421;
+    color: white;
+  }
+  
+  .renmen{
+    background: url(https://assets-new.ubtrobot.com/pc/static/cn/images/index_v3/news-bg.jpg)
+  }
+
+  .shiyanshi{
+    background: url(https://assets-new.ubtrobot.com/pc/static/cn/images/index_v3/industry-bg.jpg)
+  }
+
+  .yanse1{
+    background: url(https://assets-new.ubtrobot.com/pc/static/cn/images/index_v3/news-bg.jpg)
+  }
+  
+  .yanse{
+    background: url(https://assets-new.ubtrobot.com/pc/static/cn/images/index_v3/news-bg.jpg)
+  }
+
+
+  .huodong{
+    background: url(https://assets-new.ubtrobot.com/pc/static/cn/images/index_v3/industry-bg.jpg)
+  }
+
+  .huodong img{
+    width: 300px;
+    height: 280px;
+    padding-right: 10px;
+    float: left;
+    margin-left: 25px;
+  }
+
+
+.yanse img {
+  margin: 5px;
+  margin-left: 50px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 380px;
+  height: 400px;
+}
+
+.yanse img:hover {
+  border: 1px solid #777;
+}
+
+.yanse img img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+  .weizhi{
+    margin-top: 12px;
+    margin-bottom: 10px;
+  }
+
+
+.hezuo{
+  width: 100%;
+  height: 40px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+
+
+  #loginDiv {
+    width: 20%;
+    height: 400px;
+    background-color: #00000085;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px 50px;
+}
+
+#name_trip {
+  margin-left: 50px;
+  color: red;
+}
+
+
+#login_box {
+  width: 20%;
+  height: 400px;
+  background-color: #00000085;
+  margin: auto;
+  margin-top: 10%;
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px 50px;
+}
+
+#login_box input,
+#login_box button {
+  outline: none;
+}
+
+#login_box h2 {
+  color: #ffffff90;
+  margin-top: 5%;
+}
+
+#login_box #form #input_box {
+  margin-top: 5%;
+}
+
+#login_box #form #input_box input {
+  border: 0;
+  width: 60%;
+  font-size: 15px;
+  color: #ffffff;
+  background: #ffffff00;
+  border-bottom: 2px solid #ffffff;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+#login_box button {
+  margin-top: 50px;
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  border: 0;
+  color: #fff;
+  font-size: 15px;
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+  cursor: pointer;
+}
+
+#loginDiv {
+  width: 20%;
+  height: 400px;
+  background-color: #00000085;
+  margin: auto;
+  margin-top: 10%;
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px 50px;
+}
+
+p,
+        .sexDiv {
+            margin-top: 10px;
+            margin-left: 20px;
+            text-align: left;
+            color: azure;
+        }
+        
+        .sexDiv>input {
+            width: 30px;
+            height: 17px;
+        }
+        
+        input,
+        select {
+            margin-left: 15px;
+            border-radius: 5px;
+            border-style: hidden;
+            height: 30px;
+            width: 180px;
+            background-color: rgba(105, 105, 105, 0.5);
+            outline: none;
+            color: #f0edf3;
+            padding-left: 10px;
+        }
+        
+        .button {
+            margin-top: 30px;
+            width: 25%;
+            height: 30px;
+            border-radius: 10px;
+            border: 0;
+            color: #fff;
+            font-size: 15px;
+            background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+            cursor: pointer;
+        }
+        
+        .introduce {
+            margin-left: 110px;
+        }
+        
+        .introduce>textarea {
+            background-color: rgba(216, 191, 216, 0.5);
+            border-style: hidden;
+            outline: none;
+            border-radius: 5px;
+        }
+        
+        h1 {
+            color: #ffffff90;
+            margin-top: 5%;
+        }
+        
+        b {
+            margin-left: 50px;
+            color: #FFEB3B;
+            font-size: 10px;
+            font-weight: initial;
+        }

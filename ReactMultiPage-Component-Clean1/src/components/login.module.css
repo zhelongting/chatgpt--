@@ -1,0 +1,15 @@
+.box{
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 30px;
+}
+.loginBox{
+	width: 50%;
+}
+.h1{
+	padding-bottom: 20px;
+	text-align: center;
+	color: black;
+}

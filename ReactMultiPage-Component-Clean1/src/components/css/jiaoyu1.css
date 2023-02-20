@@ -1,0 +1,94 @@
+.banner1{
+    background-image: url(../images/banner1.jpg);  
+    height: 800px;
+    width:auto;
+}
+
+.banner1 h1{
+    margin-top: 0px;
+    font-size: 48px;
+        font-weight: 700;
+        color: #fff;
+}
+
+.ziti{
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+}
+
+.banner2{
+    background-image: url(../images/part-4-img2.png);  
+    height: 800px;
+    width:auto;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 100px;
+}
+
+.ziti2 h1{
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+}
+
+.ziti3 h1{
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+}
+
+.xiao{
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+}
+
+.banner3{
+    background-image: url(../images/pingtai.png);  
+    height: 725px;
+    width:auto;
+    margin-left: 125px;
+    margin-right: 128px;
+    margin-top: 40px;
+}
+
+
+.banner4 img{
+    height: 400px;
+    width: 650px;
+    margin-top: 60px;
+    margin-left:20px;
+}
+
+.banner4{
+    margin-top: 20px;
+}
+
+.timu h1{
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+}
+
+.ziti4 p{
+    /* text-align: center; */
+    font-size: 30px;
+    color: #000;
+    margin-top: 120px;
+}
+
+
+.banner5 img{
+    height: 400px;
+    width: 650px;
+    margin-top: 20px;
+    margin-left:20px;
+}
+
+.num p{
+    /* text-align: center; */
+    font-size: 16px;
+    color: #000;
+    margin-top: 20px;
+}
